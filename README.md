@@ -18,7 +18,7 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' width='40' height='40'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' width='40' height='40'>
   <img src='./express.png' alt='express' width='40' alt="express">
-  <img src='https://commons.wikimedia.org/wiki/File:NestJS.svg#/media/File:NestJS.svg' alt='nest-js' width='40' height='45'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1280px-NestJS.svg.png?20221211225055' alt='nest-js' width='40' height='45'>
   <img src='https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png' alt='react-native' width='40' height='45'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg' alt='electron' width='40' height='40'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png' alt='.net' width='40' height='40'>
